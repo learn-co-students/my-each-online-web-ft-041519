@@ -6,3 +6,5 @@ def my_each(array)
  end
  array
 end
+
+#was really confused on what exactly this was doing. 
